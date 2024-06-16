@@ -1,5 +1,5 @@
 Clone the repository and in terminal type "javac GameApp.java" and then java GameApp.java since Main class is in GameApp.java
-Hope you will enjoy this game ENJOY!!!!
+Hope you will enjoy this game!!!
 
 
 
