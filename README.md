@@ -1,4 +1,5 @@
 Clone the repository and in terminal type "javac GameApp.java" and then java GameApp.java since Main class is in GameApp.java
+Your highest scores will be saved. 
 Hope you will enjoy this game!!!
 
 
